@@ -1,3 +1,4 @@
+#
 # macros
 
 MACROS EN FICHERO MICROSOFT OFFICE (.xls, doc..)
